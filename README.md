@@ -15,4 +15,4 @@ Personal portfolio website showcasing projects, skills, and research interests.
 ## 🚀 Roadmap
 - [ ] Project write-ups
 - [ ] Systems diagrams
-- [ ] Blog section for technical notes
+- [ ] Blog section for technical note
